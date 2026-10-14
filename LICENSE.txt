@@ -1,0 +1,19 @@
+MHous3 Audio Studio - End User Licence Agreement (DRAFT)
+
+Copyright (c) M Hous3 Media. All rights reserved.
+
+MHous3 Audio Studio ("the Software") is owned by M Hous3 Media and is licensed, not sold. M Hous3 Media grants you a
+non-exclusive, non-transferable licence to install and use the Software free of charge for personal and commercial
+audio work. You may not sell, sub-license, reverse engineer or redistribute the Software without written permission
+from M Hous3 Media.
+
+The Software includes third-party open-source components (including ffmpeg, DeepFilterNet, Qt for Python, NumPy,
+SciPy, soundfile and sounddevice) which remain under their own licences.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. M HOUS3 MEDIA IS NOT LIABLE FOR ANY LOSS OR DAMAGE
+ARISING FROM ITS USE. Always keep a copy of your original recordings.
+
+"Dolby" and "Dolby Digital" are trademarks of Dolby Laboratories. This Software is not made, certified or endorsed
+by Dolby Laboratories.
+
+NOTE TO PUBLISHER: this is a draft for convenience only and is not legal advice. Have it reviewed by a lawyer.
